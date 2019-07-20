@@ -146,7 +146,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563591043400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563591059023" />
     <property name="last_opened_file_path" value="D:/Develop/dfocus_code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,7 +256,7 @@
       <workItem from="1563199919155" duration="4485000" />
       <workItem from="1563284872760" duration="3307000" />
       <workItem from="1563457670665" duration="1945000" />
-      <workItem from="1563590175655" duration="879000" />
+      <workItem from="1563590175655" duration="1475000" />
     </task>
     <task id="LOCAL-00001" summary="Java基础11天">
       <created>1563590742484</created>
@@ -269,7 +269,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10616000" />
+    <option name="totallyTimeSpent" value="11212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
