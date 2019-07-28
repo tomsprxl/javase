@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c32f5804-84f3-4793-a26e-334ed7698c5b" name="Default Changelist" comment="Javase day01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day01/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day01/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day01/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day02/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day02/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day02/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day02/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day03/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javase3/Demo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javase2/day01/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javase2/day01/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javase/day08/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javase/day08/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javase3/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javase3/Demo1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javase3/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="366">
+              <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -110,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,6 +146,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -164,7 +154,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564283842591" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564283850445" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -283,6 +273,7 @@
       <workItem from="1563888730127" duration="2830000" />
       <workItem from="1564046697654" duration="461000" />
       <workItem from="1564190498002" duration="674000" />
+      <workItem from="1564283614220" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="Java基础11天">
       <created>1563590742484</created>
@@ -302,12 +293,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23599000" />
+    <option name="totallyTimeSpent" value="23935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969325" visible="true" weight="0.19175258" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969325" visible="true" weight="0.19450171" />
       <window_info id="Structure" order="1" sideWeight="0.5030675" side_tool="true" weight="0.195189" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -568,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javase3/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="366">
+          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
