@@ -15,13 +15,11 @@ public class Demo3 {
         list.add("003");
         Iterator<String> iterator = list.iterator();
 
-        while (iterator.hasNext()){
+        while (iterator.hasNext()) {
             String s = iterator.next();
             System.out.println("s = " + s);
         }
     }
-
-
 
 
 }

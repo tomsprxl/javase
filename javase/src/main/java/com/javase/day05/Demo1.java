@@ -13,7 +13,7 @@ public class Demo1 {
 
     }
 
-    public static int[] getArr(){
-        return new int[]{3,4};
+    public static int[] getArr() {
+        return new int[]{3, 4};
     }
 }

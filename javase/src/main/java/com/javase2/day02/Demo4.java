@@ -12,9 +12,8 @@ public class Demo4 {
     private int id;
 
 
-
-    public Demo4(int id){
-        this.id=id;
+    public Demo4(int id) {
+        this.id = id;
     }
 
 
@@ -40,7 +39,7 @@ public class Demo4 {
         Demo4 key2 = new Demo4(1);
 
         HashMap<Demo4, String> map = new HashMap<>();
-        map.put(key1,"hello");
+        map.put(key1, "hello");
         System.out.println(map.get(key2));
     }
 }

@@ -7,5 +7,4 @@ package com.javase.day09;
 public class Demo1 {
 
 
-
 }

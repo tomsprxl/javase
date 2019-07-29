@@ -6,12 +6,12 @@ package com.javase.day02;
  */
 public class Demo1 {
     public static void main(String[] args) {
-      getName();
+        getName();
 
     }
 
 
-    public static  void  getName(){
+    public static void getName() {
         System.out.println("99");
         return;
     }
